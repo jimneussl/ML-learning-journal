@@ -1,1 +1,1 @@
-# ml-learning-journa
+# ml-learning-journal
