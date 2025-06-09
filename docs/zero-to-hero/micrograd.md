@@ -1,6 +1,6 @@
 ---
 title: Micrograd
-parent: "Neural Networks: Zero to Hero"
+parent: Zero to Hero
 nav_order: 1
 ---
 
