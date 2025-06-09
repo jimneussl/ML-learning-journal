@@ -13,17 +13,21 @@ Micrograd takes numbers as input and keeps track of the various operations (e.g.
 
 For example, let's say we have variables a, b, and c.
 Let's say that:
+'''
 a + b = d
 c * d = e
+'''
 
-Micrograd will now keep track of how 
+Micrograd will now keep track of how
+'''
 1) d is a result of an addition of a and b
 2) e is a result of a multiplication of c and d
+'''
 
 We know which other values a given value stems from and through what operation is was created.
 
 ### Backpropagation
-
+...
 
 
 
