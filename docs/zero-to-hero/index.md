@@ -1,5 +1,5 @@
 ---
-title: Neural Networks: Zero to Hero
+title: "Neural Networks: Zero to Hero"
 nav_order: 2
 ---
 
