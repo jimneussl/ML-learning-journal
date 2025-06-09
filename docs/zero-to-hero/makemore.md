@@ -1,6 +1,6 @@
 ---
 title: Makemore
-parent: "Neural Networks: Zero to Hero"
+parent: Zero to Hero
 nav_order: 2
 ---
 
