@@ -1,3 +1,11 @@
-title: ""
-description: ""
+title: "Jim Neussl"
+description: "A learning journal and project portfolio"
 remote_theme: just-the-docs/just-the-docs
+
+# aux link for the upper right navigation
+aux_links:
+  "GitHub":
+    https://github.com/jimneussl/ml-learning-journal
+
+# open aux link in new tab
+aux_links_new_tab: true
