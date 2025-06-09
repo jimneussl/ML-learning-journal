@@ -1,7 +1,10 @@
-# ML learning journal
+---
+title: Home
+layout: home
+nav_order: 1
+permalink: /
+---
 
-## Andrej Karpathy's zero to hero
+# Documenting my engineering journey
 
-### Micrograd
-
-...to be added
+On this page, I'll be documenting my latest projects and learnings. The structure will probably evolve over time as I gain more experience.
